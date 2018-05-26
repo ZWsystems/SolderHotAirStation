@@ -1,0 +1,74 @@
+Partlist
+
+Exported from hot_er_lutownica.sch at 26.05.2018 20:55
+
+EAGLE Version 8.7.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part       Value          Device            Package      Library                Sheet
+
+24VAC                     AK500/2           AK500/2      con-ptr500             1
+24VAC_IN                  AK500/4           AK500/4      con-ptr500             1
+230VAC                    AK500/2           AK500/2      con-ptr500             1
+B1                        2KBB-R            2KBB-R       rectifier              1
+B2         MB4S           MB4S              SOIC-4       rectifier              1
+CH1        10n            C-EU102-043X133   C102-043X133 rcl                    1
+CH3        10n            C-EU102-043X133   C102-043X133 rcl                    1
+CM1        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CM4        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CM5        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CM6        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CS1        470u/35V       CPOL-EUB45181A    B45181A      rcl                    1
+CS2        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CS3        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CS4        220u/35V       CPOL-EUB45181A    B45181A      rcl                    1
+CS5        1000u          CPOL-EUE3.5-8     E3,5-8       rcl                    1
+CS6        220n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CS7        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CS8        220u/35V       CPOL-EUB45181A    B45181A      rcl                    1
+CS9        1000u          CPOL-EUE3.5-8     E3,5-8       rcl                    1
+CT1        1n/63V         C-EU050-024X044   C050-024X044 rcl                    1
+CT2        1n/63V         C-EU050-024X044   C050-024X044 rcl                    1
+CT3        100n/63V       C-EU050-024X044   C050-024X044 rcl                    1
+CT4        220u/35V       CPOL-EUB45181B    B45181B      rcl                    1
+DS1        1N4004         1N4004            DO41-10      diode                  1
+ENCODER    22-23-2041     22-23-2041        22-23-2041   con-molex              1
+FR1        2k2            R-EU_R0805        R0805        rcl                    1
+HOT_AIR                   AK500/2           AK500/2      con-ptr500             1
+H_G_THERMO 22-23-2021     22-23-2021        22-23-2021   con-molex              1
+IC1        OP-AMP         OPAMP-DUALDIP     DIP08        SparkFun-IC-Amplifiers 1
+IC2        7805TV         7805TV            TO220V       linear                 1
+IC3        MEGA8-P        MEGA8-P           DIL28-3      atmel                  1
+IC4        7824TV         7824TV            TO220V       linear                 1
+LCD        22-23-2041     22-23-2041        22-23-2041   con-molex              1
+LM1        10u            L-EU0207/10       0207/10      rcl                    1
+LUTOWNICA                 AK500/2           AK500/2      con-ptr500             1
+NADMUCH    22-23-2021     22-23-2021        22-23-2021   con-molex              1
+OK1        MOC3041M       MOC3041M          DIL06        optocoupler            1
+OK2        MOC3041M       MOC3041M          DIL06        optocoupler            1
+Q1         IRF840         IRF840            TO220        transistor-fet         1
+Q2         BC546B         BC546B            TO92-EBC     transistor-npn         1
+Q4         BC546B         BC546B            TO92-EBC     transistor-npn         1
+QC1        22p            C-EUC0805K        C0805K       rcl                    1
+QC2        22p            C-EUC0805K        C0805K       rcl                    1
+REED                      2,54/0,9          2,54/0,9     wirepad                1
+RH1        330R           R-EU_0204/7       0204/7       rcl                    1
+RH2        300R           R-EU_0204/5       0204/5       rcl                    1
+RH3        220R           R-EU_0204/5       0204/5       rcl                    1
+RH4        330R           R-EU_0204/5       0204/5       rcl                    1
+RH5        10k            R-EU_0204/7       0204/7       rcl                    1
+RH6        220R           R-EU_0204/7       0204/7       rcl                    1
+RH7        330R           R-EU_0204/7       0204/7       rcl                    1
+RH8        330R           R-EU_0207/10      0207/10      rcl                    1
+RH9        300R           R-EU_0204/5       0204/5       rcl                    1
+RH10       10k            R-EU_0207/12      0207/12      rcl                    1
+RM1        10k            R-EU_R0805        R0805        rcl                    1
+RT1        6k8            R-EU_0207/2V      0207/2V      rcl                    1
+RT2        75R            R-EU_0207/2V      0207/2V      rcl                    1
+RT3        6k8            R-EU_0207/2V      0207/2V      rcl                    1
+RT4        75R            R-EU_0207/2V      0207/2V      rcl                    1
+S_I_THERMO 22-23-2021     22-23-2021        22-23-2021   con-molex              1
+TRIAKH1    BT136          BT136             TO220AB      triac                  1
+TRIAKH2    BT136          BT136             TO220AB      triac                  1
+Y1         16MHz          CRYSTALPTH-HC49UV HC49U        SparkFun-Clocks        1
